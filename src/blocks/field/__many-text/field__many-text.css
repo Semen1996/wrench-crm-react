@@ -1,0 +1,14 @@
+.field__many-text {
+  overflow: auto;
+}
+
+::-webkit-scrollbar {
+  width: 3px;
+  position:absolute;
+}
+
+::-webkit-scrollbar-thumb {
+  height: 127px;
+  background-color: #4F27BF;
+  border-radius: 1.5px;
+}

@@ -1,0 +1,14 @@
+.root {
+  min-width: 320px;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  grid-template-rows: 80px 1fr;
+  grid-template-areas:
+  "header header"
+  "menu field";
+  background-color: #FFF;
+  color: #1C1C1E;
+  margin: 0 auto;
+  font-family: 'Montserrat', 'Arial', 'sans-serif';    
+}
