@@ -9,7 +9,6 @@ function Search() {
   useEffect(() => {
     api();
   },[])
-  
 
   // Получение данных с API
   function api() {
@@ -45,7 +44,6 @@ function Search() {
       api();
     }
   }
-
 
   return (
     <div className="field">
