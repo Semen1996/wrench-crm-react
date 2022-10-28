@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wrench-crm-react/static/css/main.0f14953c.css",
-    "main.js": "/wrench-crm-react/static/js/main.e1bf14a9.js",
+    "main.css": "/wrench-crm-react/static/css/main.25a33a44.css",
+    "main.js": "/wrench-crm-react/static/js/main.458bd2a5.js",
     "static/js/787.62546faf.chunk.js": "/wrench-crm-react/static/js/787.62546faf.chunk.js",
     "static/media/Montserrat-ExtraBold.woff": "/wrench-crm-react/static/media/Montserrat-ExtraBold.f7ed659b66f3b2b779cf.woff",
     "static/media/Montserrat-Black.woff": "/wrench-crm-react/static/media/Montserrat-Black.d8f3a220cb194b6ecd4a.woff",
@@ -35,12 +35,12 @@
     "static/media/calendar.svg": "/wrench-crm-react/static/media/calendar.b438cff0dd507044c3994ce268576c9b.svg",
     "static/media/wrench.svg": "/wrench-crm-react/static/media/wrench.6693014964598003db3fbd021ae1d766.svg",
     "static/media/widgets.svg": "/wrench-crm-react/static/media/widgets.c9299d23c7ec2b0c14b0320a9324fc92.svg",
-    "main.0f14953c.css.map": "/wrench-crm-react/static/css/main.0f14953c.css.map",
-    "main.e1bf14a9.js.map": "/wrench-crm-react/static/js/main.e1bf14a9.js.map",
+    "main.25a33a44.css.map": "/wrench-crm-react/static/css/main.25a33a44.css.map",
+    "main.458bd2a5.js.map": "/wrench-crm-react/static/js/main.458bd2a5.js.map",
     "787.62546faf.chunk.js.map": "/wrench-crm-react/static/js/787.62546faf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f14953c.css",
-    "static/js/main.e1bf14a9.js"
+    "static/css/main.25a33a44.css",
+    "static/js/main.458bd2a5.js"
   ]
 }
