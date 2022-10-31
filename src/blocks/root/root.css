@@ -12,3 +12,9 @@
   margin: 0 auto;
   font-family: 'Montserrat', 'Arial', 'sans-serif';    
 }
+
+@media screen and (max-width: 767px) {
+  .root {
+    grid-template-columns: 40px 1fr;
+  }
+}

@@ -29,6 +29,9 @@ function Menu() {
 
   return (
     <div className="menu">
+      <div className='menu__burger'>
+        <span className='menu__burger-span'></span>
+      </div>
       <h2 className="menu__title">Меню</h2>
       <nav className="menu__nav">
         <NavLink exact to="/" activeClassName="menu__link_type_active" className="menu__link">
