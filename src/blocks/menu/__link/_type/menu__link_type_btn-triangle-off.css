@@ -4,6 +4,7 @@
   padding: 0;
   padding-left: 32px;
   background-color: rgba(255, 255, 255, 0.05);
+  cursor: pointer;
 }
 
 .menu__link_type_btn-triangle-off::after {
